@@ -2,4 +2,5 @@
 ![](assets/ss1.png)
 ![](assets/ss2.png)
 ![](assets/ss3.png)
-* Patika.dev link: https://app.patika.dev/yigitmustu
+* [Live Site URL](https://idrisyigit.github.io/Music-Store/index.html)
+* [Patika.dev](https://app.patika.dev/yigitmustu)
